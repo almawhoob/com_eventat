@@ -13,7 +13,7 @@ defined('_JEXEC') or die('Restricted access');
 /**
  * HTML View class for the Eventat Component
  *
- * @since  0.0.1
+ * @since  0.0.2
  */
 class EventatViewEventat extends JViewLegacy
 {
